@@ -1783,6 +1783,17 @@ body {
   padding-bottom: 120px;
   background-image: url("../../../assets/images/file.kino-muranow-muranow-1080x720.jpg");
 }
+.cid-qDpXEuRbiE .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+.cid-qDpXEuRbiE .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+.cid-qDpXEuRbiE .mbr-article {
+  color: #fff;
+}
 .cid-qDpXMFbNbY {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -1837,10 +1848,21 @@ body {
 .cid-qDpXP1BxSh .mbr-text {
   color: #767676;
 }
-.cid-qE1zthFOfv {
+.cid-qE1w7SZ5IT {
   padding-top: 60px;
   padding-bottom: 60px;
   background-image: url("../../../assets/images/file.kino-muranow-muranow-1080x720.jpg");
+}
+.cid-qE1w7SZ5IT .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+.cid-qE1w7SZ5IT .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+.cid-qE1w7SZ5IT .mbr-article {
+  color: #fff;
 }
 .cid-qDrXd4rG4U {
   padding-top: 60px;
