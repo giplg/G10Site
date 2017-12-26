@@ -1882,3 +1882,21 @@ body {
 .cid-qDrXd4rG4U .mbr-text {
   color: #767676;
 }
+.cid-qEUG5suL98 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-qEUG5suL98 .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 992px) {
+  .cid-qEUG5suL98 .mbr-figure {
+    padding-top: 1rem;
+  }
+}
+.cid-qEUG5suL98 .mbr-text {
+  color: #767676;
+}
