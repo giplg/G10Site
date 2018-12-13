@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "G10 Site",
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2063,6 +2063,24 @@
                 "overlayOpacity": "0"
               },
               {
+                "image": "@PROJECT_PATH@/assets/images/catchor-xgzktkqturbxy9mywnjmjq1mgvjnwi3ytjjodbkmmexzwq0zwrhotc5ns5qcgvnkzmcam0b5a-860x484.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-2",
+                "customStyle2": "display-7",
+                "customStyle3": "display-4",
+                "title": "POKAZ SLAJDÓW NA PEŁNYM EKRANIE",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Wybieraj z olbrzymiej kolekcji gotowych już segmentów i różnego rodzaju efektów ekranowych",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">DLA WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">DLA MAC OS</a>",
+                "overlayOpacity": "0"
+              },
+              {
                 "image": "@PROJECT_PATH@/assets/images/bond-craig-b60bf26957261fab367de240f0e52a0dc255a51e-900x600.jpg",
                 "active": false,
                 "showButtons": false,
@@ -2082,6 +2100,24 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/collage-2017-11-30-800x800.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-2",
+                "customStyle2": "display-7",
+                "customStyle3": "display-4",
+                "title": "POKAZ SLAJDÓW NA PEŁNYM EKRANIE",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Wybieraj z olbrzymiej kolekcji gotowych już segmentów i różnego rodzaju efektów ekranowych",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">DLA WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">DLA MAC OS</a>",
+                "overlayOpacity": "0"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/catch-or-6256d1fe-cc24-4f73-b1f1-b2b155a156ad-1920x1079.jpg",
                 "active": true,
                 "showButtons": false,
                 "showText": false,
