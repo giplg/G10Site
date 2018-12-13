@@ -32,7 +32,7 @@
       ]
     },
     "versionFirst": "4.5.2",
-    "uniqCompNum": 79,
+    "uniqCompNum": 80,
     "versionPublish": "4.8.8",
     "favicon": "",
     "noImageResize": "",
@@ -1693,7 +1693,7 @@
             }
           },
           "_name": "content6",
-          "_customHTML": "<section class=\"mbr-section content6\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n      <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n      <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"60\">\n      <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n    \n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                      <img src=\"@PROJECT_PATH@/assets/images/bond-g10-side-217x711.jpg\" alt=\"Mobirise\" title>  \n                    </div>\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\">Jesteśmy na planie filmowym nowego filmu z serii Jamesa Bonda “Catch Or Die” (czytaj ‘kacz-or-daj’).\n<br>\n<br>W filmie po raz pierwszy pojawia się tajemniczy Agent G10, który został partnerem Jamesa Bonda, mimo jego tradycyjnej niechęci do dzielenia się ryzykiem i sławą. Jego opory pokonała uroda i wdzięk Agenta G10, a dokładniej kobiecej części jego dwoistej natury.\n<br>\n<br>Geniusz kłamstwa Catch Or jest bliski zdobycia władzy nad światem. Opanował już policję, wojsko, sądy, telewizję i banki. Wspiera go oszukany tłum, przekupiony kler, górnicy i gang karierowiczów, którym obiecał konfitury.\n<br>\n<br>Ostatnią szansą obrony zostało kasyno, w którym ma się rozegrać ostateczna rozgrywka o władzę nad światem. \n<br>\n<br>Jeśli wygra Catch Or, który jest “cichym wspólnikiem” kasyna, zbudowanego za pieniądze podatników - już nikt nie odbierze mu władzy.  \n<br>\n<br>Zadaniem Jamesa Bonda i Agenta G10 jest ogranie kasyna, co doprowadzi do bankructwa i ostatecznego upadku Catch Or-a, oraz zdemaskowania jego kłamstw i fałszywych obietnic, którymi zamącił w głowie swoim poplecznikom i naiwnym fanom.\n<br>\n<br>Nie mając pieniędzy na dalszą korupcję maluczkich, Catch Or i jego mafia zostanie zdemaskowany i trafi do pudła za wszystkie przekręty, których się dopuścił.\n<br>\n<br>Nikt nie wie, że Agent G10 w rzeczywistości nie jest muskularnym i przystojnym pracownikiem MI-6, ale grupą skromnych wolontariuszy, którzy z miłości do kraju i wolności podjęli się wiekopomnej misji pokonania geniusza zła. \n<br>\n<br>Od ich pomysłowości, umiejętności współpracy i maskowania się w eleganckim środowisku kasyna - zależą losy świata!\n<br>\n<br></p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content6\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n      <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n\n      <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"50\">\n      <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n    \n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                      <img src=\"@PROJECT_PATH@/assets/images/bond-g10-side-217x711.jpg\" alt=\"Mobirise\" title>  \n                    </div>\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\">Jesteśmy na planie filmowym nowego filmu z serii Jamesa Bonda “Catch Or Die” (czytaj ‘kacz-or-daj’).\n<br>\n<br>W filmie po raz pierwszy pojawia się tajemniczy Agent G10, który został partnerem Jamesa Bonda, mimo jego tradycyjnej niechęci do dzielenia się ryzykiem i sławą. Jego opory pokonała uroda i wdzięk Agenta G10, a dokładniej kobiecej części jego dwoistej natury.\n<br>\n<br>Geniusz kłamstwa Catch Or jest bliski zdobycia władzy nad światem. Opanował już policję, wojsko, sądy, telewizję i banki. Wspiera go oszukany tłum, przekupiony kler, górnicy i gang karierowiczów, którym obiecał konfitury.\n<br>\n<br>Ostatnią szansą obrony zostało kasyno, w którym ma się rozegrać ostateczna rozgrywka o władzę nad światem. \n<br>\n<br>Jeśli wygra Catch Or, który jest “cichym wspólnikiem” kasyna, zbudowanego za pieniądze podatników - już nikt nie odbierze mu władzy.  \n<br>\n<br>Zadaniem Jamesa Bonda i Agenta G10 jest ogranie kasyna, co doprowadzi do bankructwa i ostatecznego upadku Catch Or-a, oraz zdemaskowania jego kłamstw i fałszywych obietnic, którymi zamącił w głowie swoim poplecznikom i naiwnym fanom.\n<br>\n<br>Nie mając pieniędzy na dalszą korupcję maluczkich, Catch Or i jego mafia zostanie zdemaskowany i trafi do pudła za wszystkie przekręty, których się dopuścił.\n<br>\n<br>Nikt nie wie, że Agent G10 w rzeczywistości nie jest muskularnym i przystojnym pracownikiem MI-6, ale grupą skromnych wolontariuszy, którzy z miłości do kraju i wolności podjęli się wiekopomnej misji pokonania geniusza zła. \n<br>\n<br>Od ich pomysłowości, umiejętności współpracy i maskowania się w eleganckim środowisku kasyna - zależą losy świata!\n<br>\n<br></p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "rbXZp55mrB",
           "_anchor": "content6-1a",
           "_protectedParams": [],
@@ -1992,7 +1992,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/roulettenight3-472x664.png",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -2004,7 +2004,7 @@
                 "title": "POKAZ SLAJDÓW NA PEŁNYM EKRANIE",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Wybieraj z olbrzymiej kolekcji gotowych już segmentów i różnego rodzaju efektów ekranowych",
+                "text": "Musimy zagrać o wszystko...",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">DLA WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">DLA MAC OS</a>",
                 "overlayOpacity": "0"
               },
@@ -2022,7 +2022,7 @@
                 "title": "POKAZ SLAJDÓW NA PEŁNYM EKRANIE",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Wybieraj z olbrzymiej kolekcji gotowych już segmentów i różnego rodzaju efektów ekranowych",
+                "text": "Rozgrywka między dobrem i złem",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">DLA WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">DLA MAC OS</a>",
                 "overlayOpacity": "0"
               },
@@ -2118,7 +2118,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/catch-or-6256d1fe-cc24-4f73-b1f1-b2b155a156ad-1920x1079.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -2130,7 +2130,7 @@
                 "title": "POKAZ SLAJDÓW NA PEŁNYM EKRANIE",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Wybieraj z olbrzymiej kolekcji gotowych już segmentów i różnego rodzaju efektów ekranowych",
+                "text": "Władzy raz zdobytej nie oddam nigdy!",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">DLA WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">DLA MAC OS</a>",
                 "overlayOpacity": "0"
               }
@@ -2188,7 +2188,7 @@
             }
           },
           "_name": "image1",
-          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Pełny ekran\" name=\"fullWidth\">\n\n        <input type=\"range\" inline title=\"Góra\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Dół\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Pokaż tekst\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Szerokość\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"66\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Kolor ta\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Kolor 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n            <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n                <a href=\"https://www.youtube.com/watch?v=E-IDfoZuQLM&list=PLD4A8sYoLfVckUYSDMdFUeMSJO0DCIGPt\" target=\"_blank\"><img src=\"@PROJECT_PATH@/assets/images/g10-bond-movieposter-436x614.jpg\" width=\"1400\" alt=\"Mobirise\" title></a>\n                <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                    <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-1\">\n                        Twórz niesamowite strony internetowe!\n                    </div>\n                </figcaption>\n            </div>\n    </figure>\n</section>",
+          "_customHTML": "<section group=\"Images & Videos\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Pełny ekran\" name=\"fullWidth\">\n\n        <input type=\"range\" inline title=\"Góra\" name=\"paddingTop\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n        <input type=\"range\" inline title=\"Dół\" name=\"paddingBottom\" min=\"0\" max=\"8\" value=\"4\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"checkbox\" title=\"Pokaż tekst\" name=\"showText\">        \n        \n        <input type=\"range\" inline title=\"Szerokość\" name=\"imageSize\" min=\"20\" max=\"100\" value=\"66\" step=\"1\" condition=\"fullWidth==false\">\n\n        <input type=\"color\" title=\"Kolor ta\" name=\"bgColor\" value=\"#ffffff\" condition=\"fullWidth==false\">\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"fullWidth==false\">\n        <input type=\"color\" title=\"Kolor 2\" name=\"color2\" value=\"#149dcc\" condition=\"gradientBg\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <figure class=\"mbr-figure\" mbr-class=\"{'container':fullWidth==false}\">\n            <div class=\"image-block\" mbr-style=\"{'width':imageSize+'%'}\">\n                <a href=\"https://www.youtube.com/watch?v=E-IDfoZuQLM&list=PLD4A8sYoLfVckUYSDMdFUeMSJO0DCIGPt\" target=\"_blank\"><img src=\"@PROJECT_PATH@/assets/images/g10-bond-movieposter-436x614.jpg\" width=\"1400\" alt=\"Mobirise\" title></a>\n                <figcaption class=\"mbr-figure-caption mbr-figure-caption-over\" mbr-if=\"showText\">\n                    <div mbr-text class=\"container pb-5 mbr-white align-center mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                        <br><br><br><br>\n                    </div>\n                </figcaption>\n            </div>\n    </figure>\n</section>",
           "_cid": "rc3FwUy19d",
           "_anchor": "image1-21",
           "_protectedParams": [],
