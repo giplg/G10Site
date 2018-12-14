@@ -32,7 +32,7 @@
       ]
     },
     "versionFirst": "4.5.2",
-    "uniqCompNum": 80,
+    "uniqCompNum": 84,
     "versionPublish": "4.8.8",
     "favicon": "",
     "noImageResize": "",
@@ -2156,6 +2156,34 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            "@media (min-width: 992px)": {
+              ".mbr-figure": {
+                "padding-right": "4rem"
+              }
+            },
+            "@media (max-width: 992px)": {
+              ".mbr-figure": {
+                "padding-bottom": "1rem"
+              }
+            },
+            ".mbr-text": {
+              "color": "#767676"
+            }
+          },
+          "_name": "content6",
+          "_customHTML": "<section class=\"mbr-section content6\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"range\" inline title=\"Góra\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n      <input type=\"range\" inline title=\"Dół\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n      <input type=\"range\" inline title=\"Wielkość\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"60\">\n      <input type=\"color\" title=\"Kolor ta\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n    \n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                      <a href=\"https://www.youtube.com/watch?v=E-IDfoZuQLM&list=PLD4A8sYoLfVckUYSDMdFUeMSJO0DCIGPt\" target=\"_blank\"><img src=\"@PROJECT_PATH@/assets/images/james-bond-007-50th-anniversary-436x654.jpg\" alt=\"Mobirise\" title></a>  \n                    </div>\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><b><a href=\"https://www.cda.pl/video/2828677ec\" target=\"_blank\">Dr. No (1962)</a></b><br><b><a href=\"https://www.cda.pl/video/2828677ec\" target=\"_blank\"><br></a></b><b><a href=\"https://www.cda.pl/video/903271f\" target=\"_blank\">Pozdrowienia z Rosji (1963)</a></b><br><b><a href=\"https://www.cda.pl/video/903271f\" target=\"_blank\"><br></a><a href=\"https://www.cda.pl/video/248281a2\" target=\"_blank\">Diamenty są wieczne (1971)</a></b><br><b><a href=\"https://www.cda.pl/video/903271f\" target=\"_blank\"><br></a><a href=\"https://www.cda.pl/video/24850349\" target=\"_blank\">Szpieg który mnie kochał (1977)</a></b><br><b><a href=\"https://www.cda.pl/video/903271f\" target=\"_blank\"><br></a><a href=\"https://www.cda.pl/video/24852253\" target=\"_blank\">Ośmiorniczka (1983)</a></b><br><b><a href=\"https://www.cda.pl/video/903271f\" target=\"_blank\"><br></a></b><a href=\"https://www.cda.pl/video/64244404\" target=\"_blank\">Śmierć nadejdzie jutro (2002)</a><br><b><a href=\"https://www.cda.pl/video/903271f\" target=\"_blank\"><br></a></b><b><a href=\"https://www.cda.pl/info/james_bond_007\" target=\"_blank\">...razem 24 + 1</a></b></p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "rcfnVCTQyw",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content6-2a"
         },
         {
           "_styles": {

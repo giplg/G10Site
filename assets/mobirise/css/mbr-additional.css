@@ -3080,6 +3080,24 @@ body {
   padding-bottom: 60px;
   background-image: url("../../../assets/images/file.kino-muranow-muranow-1080x720.jpg");
 }
+.cid-rcfnVCTQyw {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-rcfnVCTQyw .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 992px) {
+  .cid-rcfnVCTQyw .mbr-figure {
+    padding-bottom: 1rem;
+  }
+}
+.cid-rcfnVCTQyw .mbr-text {
+  color: #767676;
+}
 .cid-rc3FwUy19d {
   background: #ffffff;
   padding-top: 60px;
