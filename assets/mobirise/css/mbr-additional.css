@@ -2798,6 +2798,32 @@ body {
 .cid-rbXZp55mrB .mbr-text {
   color: #767676;
 }
+.cid-rbXZp7orAq {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-image: url("../../../assets/images/file.kino-muranow-muranow-1080x720.jpg");
+}
+.cid-rc3FwUy19d {
+  background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.cid-rc3FwUy19d .image-block {
+  margin: auto;
+}
+.cid-rc3FwUy19d figcaption {
+  position: relative;
+}
+.cid-rc3FwUy19d figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rc3FwUy19d .image-block {
+    width: 100% !important;
+  }
+}
 .cid-rc3FTLyFKC {
   padding-top: 45px;
   padding-bottom: 45px;
@@ -3060,7 +3086,7 @@ body {
   background: transparent !important;
 }
 .cid-rc3FTLyFKC .image_wrapper {
-  height: 700px;
+  height: 570px;
   width: 100%;
   position: relative;
   display: inline-block;
@@ -3073,15 +3099,29 @@ body {
   text-align: center;
 }
 .cid-rc3FTLyFKC .content-slider-wrap {
-  width: 97%;
+  width: 96%;
 }
-.cid-rbXZp7orAq {
+.cid-rcjgSWvBBZ {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/mbr-1920x1280.jpg");
+}
+.cid-rcjf548Eud {
+  background: #149dcc;
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/file.kino-muranow-muranow-1080x720.jpg");
+  background: linear-gradient(0deg, #149dcc, #ffffff);
+}
+.cid-rcjf548Eud .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-rcjf548Eud .video-block {
+    width: 100% !important;
+  }
 }
 .cid-rcfnVCTQyw {
-  padding-top: 60px;
+  padding-top: 75px;
   padding-bottom: 60px;
   background-color: #ffffff;
 }
@@ -3097,25 +3137,4 @@ body {
 }
 .cid-rcfnVCTQyw .mbr-text {
   color: #767676;
-}
-.cid-rc3FwUy19d {
-  background: #ffffff;
-  padding-top: 60px;
-  padding-bottom: 60px;
-}
-.cid-rc3FwUy19d .image-block {
-  margin: auto;
-}
-.cid-rc3FwUy19d figcaption {
-  position: relative;
-}
-.cid-rc3FwUy19d figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-rc3FwUy19d .image-block {
-    width: 100% !important;
-  }
 }
